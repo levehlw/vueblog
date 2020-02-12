@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.v-note-show{
+    font-size: 24px;
+}
+.markdown-body pre{
+    background-color: #282c34 !important;
+}
